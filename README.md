@@ -16,6 +16,6 @@ Welcome to my personal CV website repository! This is a single-page CV that show
 - **JavaScript** *(optional)*: Can be added for additional interactivity.
 - **Figma**: For prototyping and design ideas.
   
-  ## Project Link
-  https://github.com/divya-chaturvedi120/Single-Page-CV/tree/main
+  ## Project Task Link
+  https://roadmap.sh/projects/single-page-cv
   
